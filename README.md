@@ -3,7 +3,7 @@
 *********** Work in progress **************
 
 ## Contents:
-1. Discussion of the assumptions and goals of the project.
+1. [Discussion of the assumptions and goals of the project.](#Main goal)
 2. Project description
 3. Hardware and development tool used
 4. Environment configuration
