@@ -23,6 +23,7 @@ The project involves building a device that will enable measuring the pulse and 
 ## 3. Tools
 Equipment used in the project:
 - microcontroller - STM32F411CEU6 on the "Blackpill" development board
+  [Documentation]([https://www.adres-strony.pl](https://www.st.com/en/microcontrollers-microprocessors/stm32f411ce.html))
 - resistive display with ILI9341 controller and XPT2046 touch controller
 - pulse and blood oxygenation sensor – MAX30102
 -basic electronic components such as wires, resistors, capacitors, etc.
