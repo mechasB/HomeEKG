@@ -39,3 +39,7 @@ IT tools:
 - Fusion 360
 
 ## 4. Environment configuration
+
+![CubeMX pin setup](file:///C:/Users/micha/Desktop/Zrzut%20ekranu%202023-11-16%20163214.png)
+
+
