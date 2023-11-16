@@ -3,15 +3,15 @@
 *********** Work in progress **************
 
 ## Contents:
-* 1. Discussion of the assumptions and goals of the project.
-* 2.Project description
-* 3.Hardware and development tool used
-* 4.Environment configuration
-* 5.Electrical diagram
-* 6.Technical description of the project
-* 7.3D printing
-* 8.Problems encountered and how to solve them
-* 9.Secondary sources
+1. Discussion of the assumptions and goals of the project.
+2. Project description
+3. Hardware and development tool used
+4. Environment configuration
+5. Electrical diagram
+6. Technical description of the project
+7. 3D printing
+8. Problems encountered and how to solve them
+9. Secondary sources
 
 
 ## 1. Main goal
