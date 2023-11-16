@@ -1,5 +1,7 @@
 # HomeEKG
 
+*********** Work in progress **************
+
 ## Contents:
 * 1.Discussion of the assumptions and goals of the project.
 * 2.Project description
